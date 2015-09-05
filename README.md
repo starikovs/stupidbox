@@ -12,7 +12,7 @@ And again, all you need is **jquery.stupidbox.js** (it's around 30 lines of code
 
 The idea of this markup is that &lt;a&gt; tag has a big image and &lt;img&gt; has a thumbnail.
 
-    <a href="big-image-url.jpg">
+    <a href="big-image.jpg">
         <img src="thumbnail-image.jpg">
     </a>
 
