@@ -3,9 +3,7 @@
         var b = $("body"),
             name = "stupidbox",
             cls = "." + name,
-            id = "#" + name,
-            t =
-                '<div id="' + name + '" style="' +
+            t = '<div id="' + name + '" style="' +
                     'position:fixed;' +
                     'top:0;' +
                     'right:0;' +
@@ -15,8 +13,7 @@
                     'background-size:contain;' +
                 '"></div>';
 
-        b.off(cls);
-        b.on("click" + cls, cls, function (e) {
+        b.off(cls).on("click" + cls, cls, function (e) {
             var el = $(this),
                 href = el.attr("href"),
                 src = el.attr("src"),
