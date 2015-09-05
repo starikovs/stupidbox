@@ -22,8 +22,6 @@
                 src = el.attr("src"),
                 url = href || src;
 
-            $(id).remove();
-
             if (url) {
                 $(t.replace("$", url)).insertAfter(b).on("click", function () {
                     $(this).remove();
