@@ -4,7 +4,7 @@ This is a really simple and a bit stupid **image lightbox** jQuery plugin. It ha
 
 ## Demo
 
-http://codepen.io/starikovs/full/vNEvpW/
+[Demo on CodePen](http://codepen.io/starikovs/full/vNEvpW/)
 
 ## HTML
 

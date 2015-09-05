@@ -1,7 +1,7 @@
 {
   "name": "stupidbox",
   "version": "0.0.1",
-  "description": "Really simple jQuery image lightbox plugin.",
+  "description": "Really simple image lightbox jQuery plugin.",
   "homepage": "https://github.com/starikovs/stupidbox/",
   "main": "./jquery.stupidbox.js",
   "repository": {
@@ -12,7 +12,8 @@
     "jquery-plugin",
     "ecosystem:jquery",
     "image",
-    "lightbox"
+    "lightbox",
+    "modal"
   ],
   "author": "Vacheslav Starikov",
   "license": "MIT",

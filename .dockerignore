@@ -1,0 +1,10 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+.vagrant
+Vagrantfile
+Vagrantprovision.sh
+package.json
+node_modules
+
