@@ -2,6 +2,8 @@
 
 This is a really simple and a bit stupid **image lightbox** jQuery plugin. It has no options and works out of the box. It just a javascript *jquery.stupidbox.js* file with no styleshets, images, etc.
 
+And again, all you need is **jquery.stupidbox.js** (it's around 30 lines of code).
+
 ## Demo
 
 [Demo on CodePen](http://codepen.io/starikovs/full/vNEvpW/)
@@ -10,7 +12,7 @@ This is a really simple and a bit stupid **image lightbox** jQuery plugin. It ha
 
 The idea of this markup is that &lt;a&gt; tag has a big image and &lt;img&gt; has a thumbnail.
 
-    <a href="big-image-url.jpg">
+    <a href="big-image.jpg">
         <img src="thumbnail-image.jpg">
     </a>
 
