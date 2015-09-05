@@ -14,8 +14,8 @@ sudo apt-get -y install git
 
 # TODO: user should set its git config settings
 
-GIT_USERNAME='Vacheslav Starikov'
-GIT_EMAIL='slavicstar@fastmail.com'
+GIT_USERNAME='Username'
+GIT_EMAIL='your@email.com'
 GIT_COREEDITOR='vim'
 GIT_MERGETOOL='vimdiff'
 git config --global user.name "$GIT_USERNAME"
