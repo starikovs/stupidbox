@@ -11,6 +11,7 @@
                     'left:0;' + 
                     'background:url($) center center rgba(0,0,0,.8) no-repeat;' +
                     'background-size:contain;' +
+                    'z-index:9999999;' +
                 '"></div>';
 
         b.off(cls).on("click" + cls, cls, function (e) {
