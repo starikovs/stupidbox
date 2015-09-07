@@ -1,6 +1,6 @@
 {
   "name": "stupidbox",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Really simple image lightbox jQuery plugin.",
   "homepage": "https://github.com/starikovs/stupidbox/",
   "main": "./jquery.stupidbox.js",
