@@ -1,6 +1,6 @@
 # stupidbox
 
-This is a really simple and a bit stupid **image lightbox** jQuery plugin. It has no options and works out of the box. It just a javascript *jquery.stupidbox.js* file with no styleshets, images, etc. And just "X" letter is used as a closing icon.
+This is a really simple and a bit stupid **image lightbox** jQuery plugin. It has no options and works out of the box. It just a javascript *jquery.stupidbox.js* file with no styleshets, images, etc. And just the "X" letter is used as a closing icon.
 
 And again, all you need is **jquery.stupidbox.js** (it's around 30 lines of code).
 
